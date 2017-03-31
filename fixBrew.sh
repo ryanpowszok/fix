@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 #fix yer brew
 
 sudo chown -R $(whoami) /usr/local/bin

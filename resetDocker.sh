@@ -1,5 +1,5 @@
-#!/bin/bash
-#clear out docker
+#!/usr/bin/env bash
+# Clean up docker
 
 # Delete all containers
 docker rm $(docker ps -a -q)
