@@ -1,4 +1,12 @@
-# fix
+Fix
+============================
+
+Helpful fix scripts you can run to fix misc things.
+
+* Version: 1.0.0
+* Developer: Ryan Powszok
+* Website: [http://jukelabs.com](http://jukelabs.com)
+* Copyright: (c) 2016 Ryan Powszok / Juke Labs, Inc.
 
 License
 -------------------------------------
