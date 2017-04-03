@@ -3,6 +3,8 @@
 License
 -------------------------------------
 
+Copyright © 2017 Ryan Powszok / Juke Labs, Inc. All Rights Reserved.
+
 Released under the MIT License: [http://www.opensource.org/licenses/mit-license.php](http://www.opensource.org/licenses/mit-license.php)
 
 	The MIT License
