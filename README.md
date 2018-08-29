@@ -3,15 +3,15 @@ Fix
 
 Helpful fix scripts you can run to fix misc things.
 
-* Version: 1.0.0
+* Version: 1.1.0
 * Developer: Ryan Powszok
 * Website: [http://jukelabs.com](http://jukelabs.com)
-* Copyright: (c) 2016 Ryan Powszok / Juke Labs, Inc.
+* Copyright: (c) 2018 Ryan Powszok / Juke Labs, Inc.
 
 License
 -------------------------------------
 
-Copyright © 2017 Ryan Powszok / Juke Labs, Inc. All Rights Reserved.
+Copyright © 2018 Ryan Powszok / Juke Labs, Inc. All Rights Reserved.
 
 Released under the MIT License: [http://www.opensource.org/licenses/mit-license.php](http://www.opensource.org/licenses/mit-license.php)
 
