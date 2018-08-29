@@ -5,7 +5,7 @@ Helpful fix scripts you can run to fix misc things.
 
 * Version: 1.1.0
 * Developer: Ryan Powszok
-* Website: [http://jukelabs.com](http://jukelabs.com)
+* Website: [https://ryanpowszok.com](https://ryanpowszok.com)
 * Copyright: (c) 2018 Ryan Powszok / Juke Labs, Inc.
 
 ## Commands
