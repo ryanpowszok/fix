@@ -1,10 +1,10 @@
 Fix
 ============================
 
-Helpful fix scripts you can run to fix misc things.
+Helpful scripts you can run to fix things.
 
 * Version: 1.1.0
-* Developer: Ryan Powszok
+* Author: Ryan Powszok
 * Website: [ryanpowszok.com](https://ryanpowszok.com)
 * Copyright: (c) 2018 Ryan Powszok / Juke Labs, Inc.
 
